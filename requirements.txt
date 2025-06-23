@@ -1,0 +1,7 @@
+python-dotenv
+gigachat
+langchain-text-splitters
+qdrant-client
+sentence-transformers
+transformers
+requests
